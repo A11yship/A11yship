@@ -11,4 +11,4 @@ Hi, I'm Hannah from Germany and at the moment a **Web-Dev** Student at neuefisch
 
 
 ## Social Media
-You find me on [linkedin](www.linkedin.com/in/hannah-steil-a0784b19b).
+You find me on [linkedin](https://www.linkedin.com/in/hannah-steil-a0784b19b).
