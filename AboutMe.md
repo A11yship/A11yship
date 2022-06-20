@@ -1,6 +1,10 @@
-Hannah
+# About Me
 
-Ich bin 30 und wohne in Jena.
+## Introduction
 
-Arbeiten Sie lieber im Homeoffice oder einem „echten“ Büro?
-Ich arbeite lieber in einem "echtem" Büro.
+Hi, I'm Hannah from Germany and at the moment a **Web-Dev** Student at neuefische.
+
+## Interests 
+
+
+## Social Media
